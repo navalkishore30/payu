@@ -1,7 +1,7 @@
 {
     "name": "navalkishore/payu",
     "description": "PayU Integration for laravel projects.",
-    "type": "composer-plugin",
+    "type": "laravel",
     "authors": [
         {
             "name": "Naval Kishore",
