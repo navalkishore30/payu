@@ -1,0 +1,17 @@
+{
+    "name": "navalkishore/payu",
+    "description": "PayU Integration for laravel projects.",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Naval Kishore",
+            "email": "navalkishoregr@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Payu\\": "src/payu/"
+        }
+    },
+}
