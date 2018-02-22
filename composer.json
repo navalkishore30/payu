@@ -2,12 +2,14 @@
     "name": "navalkishore/payu",
     "description": "PayU Integration for laravel projects.",
     "type": "laravel",
+    "license": "GPL-2.0",
     "authors": [
         {
             "name": "Naval Kishore",
             "email": "navalkishoregr@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
